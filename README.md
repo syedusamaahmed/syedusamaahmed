@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @syedusamaahmed
-- 👀 I’m a backend Magento 2 developer
+- 👀 I’m a Magento 2 backend developer
 - 📫 You can reach me on usama00747@gmail.com
